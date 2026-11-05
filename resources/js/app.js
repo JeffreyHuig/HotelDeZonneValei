@@ -1,4 +1,5 @@
-
+import '../css/app.css';
+import "../css/style.css";
 
 import Alpine from 'alpinejs';
 
